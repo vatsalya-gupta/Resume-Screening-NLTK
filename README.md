@@ -7,5 +7,3 @@ This is a Machine Learning project on Resume Screening with Python programming l
 * *" UpdatedResumeDataSet.csv "* : Kaggle Resume dataset ([Link](https://www.kaggle.com/dhainjeamita/updatedresumedataset/download))
 
 * *" resume_model.pkl "* : Final model file
-
-Project idea : [Aman Kharwal](https://github.com/amankharwal)
